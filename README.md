@@ -1,7 +1,8 @@
 
 # Masjid Tua-Game
 
-<img width="1452" height="816" alt="image" src="https://github.com/user-attachments/assets/ebdf5354-5cd2-4fa6-bd46-886487b187a2" />
+<img width="1452" height="816" alt="Screenshot 2026-06-06 094120" src="https://github.com/user-attachments/assets/5756093f-b47d-41ca-932f-98bba4c0fe9f" />
+
 
 Masjid Tua-Game is a first-person horror adventure game developed using Unity and C#. Players take the role of a young santri tasked with restoring the sanctity of an abandoned mosque that has been overtaken by jinn and shrouded in darkness.
 
@@ -9,15 +10,19 @@ The game combines exploration, resource management, and survival horror elements
 
 ## Screenshots
 
-<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/92f640e4-b26b-466f-80d0-796dac443332" />
+<img width="1486" height="823" alt="Screenshot 2026-06-06 094404" src="https://github.com/user-attachments/assets/79a82579-d401-4d2d-a077-957ceea97248" />
 
-<img width="1471" height="803" alt="image" src="https://github.com/user-attachments/assets/d8c495e5-9de1-430c-a785-6be82b649b72" />
+<img width="1471" height="803" alt="Screenshot 2026-06-06 094546" src="https://github.com/user-attachments/assets/465947ab-689c-4468-898c-e8d87def7e00" />
 
-<img width="1470" height="821" alt="image" src="https://github.com/user-attachments/assets/f85bea9b-cd76-4479-8e13-1d05f44973a6" />
+<img width="1470" height="821" alt="Screenshot 2026-06-06 094615" src="https://github.com/user-attachments/assets/ad845d2d-ad83-41aa-990c-8de87ab6a112" />
 
-<img width="1477" height="821" alt="image" src="https://github.com/user-attachments/assets/7499bfa1-0b64-42d7-b4f5-3758a38ce7f6" />
+<img width="1459" height="809" alt="Screenshot 2026-06-06 094805" src="https://github.com/user-attachments/assets/39436979-3759-49ed-a5ee-601b0b1039d5" />
 
-<img width="1459" height="809" alt="image" src="https://github.com/user-attachments/assets/63f5724c-ade0-4b6a-beda-4b30a0b99a7b" />
+<img width="1474" height="827" alt="Screenshot 2026-06-06 094905" src="https://github.com/user-attachments/assets/c4561cc0-6b79-4c24-b44f-4ca01f921aac" />
+
+<img width="1466" height="804" alt="Screenshot 2026-06-06 095001" src="https://github.com/user-attachments/assets/08521a96-1eba-42c3-b2da-01de61a5a6ad" />
+
+<img width="1470" height="816" alt="Screenshot 2026-06-06 095023" src="https://github.com/user-attachments/assets/d123128e-0ff2-4a72-8f90-fc717b6e4789" />
 
 ---
 
