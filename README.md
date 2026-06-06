@@ -10,19 +10,15 @@ The game combines exploration, resource management, and survival horror elements
 
 ## Screenshots
 
-<img width="1486" height="823" alt="Screenshot 2026-06-06 094404" src="https://github.com/user-attachments/assets/79a82579-d401-4d2d-a077-957ceea97248" />
+<img width="600" height="400" alt="Screenshot 2026-06-06 094404" src="https://github.com/user-attachments/assets/79a82579-d401-4d2d-a077-957ceea97248" />
 
-<img width="1471" height="803" alt="Screenshot 2026-06-06 094546" src="https://github.com/user-attachments/assets/465947ab-689c-4468-898c-e8d87def7e00" />
+<img width="600" height="400" alt="Screenshot 2026-06-06 094546" src="https://github.com/user-attachments/assets/465947ab-689c-4468-898c-e8d87def7e00" />
 
-<img width="1470" height="821" alt="Screenshot 2026-06-06 094615" src="https://github.com/user-attachments/assets/ad845d2d-ad83-41aa-990c-8de87ab6a112" />
+<img width="600" height="400" alt="Screenshot 2026-06-06 094805" src="https://github.com/user-attachments/assets/39436979-3759-49ed-a5ee-601b0b1039d5" />
 
-<img width="1459" height="809" alt="Screenshot 2026-06-06 094805" src="https://github.com/user-attachments/assets/39436979-3759-49ed-a5ee-601b0b1039d5" />
+<img width="600" height="400" alt="Screenshot 2026-06-06 094905" src="https://github.com/user-attachments/assets/c4561cc0-6b79-4c24-b44f-4ca01f921aac" />
 
-<img width="1474" height="827" alt="Screenshot 2026-06-06 094905" src="https://github.com/user-attachments/assets/c4561cc0-6b79-4c24-b44f-4ca01f921aac" />
-
-<img width="1466" height="804" alt="Screenshot 2026-06-06 095001" src="https://github.com/user-attachments/assets/08521a96-1eba-42c3-b2da-01de61a5a6ad" />
-
-<img width="1470" height="816" alt="Screenshot 2026-06-06 095023" src="https://github.com/user-attachments/assets/d123128e-0ff2-4a72-8f90-fc717b6e4789" />
+<img width="600" height="400" alt="Screenshot 2026-06-06 095023" src="https://github.com/user-attachments/assets/d123128e-0ff2-4a72-8f90-fc717b6e4789" />
 
 ---
 
