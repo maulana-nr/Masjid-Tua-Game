@@ -1,0 +1,19 @@
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]serSettings/
+
+.plastic/
+
+Game/
+New folder/
+Build/
+Builds/
+
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+.vscode/
+.idea/
